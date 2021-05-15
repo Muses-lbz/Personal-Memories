@@ -3,4 +3,4 @@ FROM Student,Class,Course,Choice
 WHERE (Course.COURSE_NO=Choice.COURSE_NO)
 AND (Class.CLASS_NO=Student.CLASS_NO)
 AND (Student.S_NO=Choice.S_NO)
-AND CLASS_DEPT='¼ÆËã»úÏµ'
+AND CLASS_DEPT='è®¡ç®—æœºç³»'
