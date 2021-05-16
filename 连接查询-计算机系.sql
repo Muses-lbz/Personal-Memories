@@ -1,3 +1,4 @@
+
 SELECT Student.S_NO,S_NAME,CLASS_NAME,Course.COURSE_NO,COURSE_NAME,SCORE
 FROM Student,Class,Course,Choice
 WHERE (Course.COURSE_NO=Choice.COURSE_NO)
