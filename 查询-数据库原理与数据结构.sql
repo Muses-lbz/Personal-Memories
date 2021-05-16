@@ -1,4 +1,5 @@
-﻿SELECT DISTINCT Teacher.T_NAME
+
+SELECT DISTINCT Teacher.T_NAME
 FROM Teacher,Teaching,Course
 WHERE Teaching.T_NO=Teacher.T_NO
 AND Course.COURSE_NO=Teaching.COURSE_NO
