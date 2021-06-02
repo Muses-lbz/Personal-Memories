@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("Life's too short to be pissed off all the time.\n生命太短暂，不能总是愤世嫉俗。\n");
+	printf("It was up to me to reach for that dream.\n我凭借着自己的努力去追逐梦想。\n");
 	printf("\n");
 	system("pause");
 	return 0;
