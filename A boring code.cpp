@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("It was up to me to reach for that dream.\n我凭借着自己的努力去追逐梦想。\n");
+	printf("I blessed the day I found you.\n感谢上天让我遇到你。\n");
 	printf("\n");
 	system("pause");
 	return 0;
