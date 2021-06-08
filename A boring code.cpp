@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("I blessed the day I found you.\n感谢上天让我遇到你。\n");
+	printf("Every time God closes a door, he opens a window.\n每次上帝关上一扇门，他就会打开一扇窗。\n");
 	printf("\n");
 	system("pause");
 	return 0;
