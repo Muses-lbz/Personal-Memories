@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("Things have a way of working themselves out.\n船到桥头自然直。\n");
+	printf("My dad is my hero.\n我的父亲是我的英雄。\n");
 	printf("\n");
 	system("pause");
 	return 0;
