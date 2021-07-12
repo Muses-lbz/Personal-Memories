@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("My dad is my hero.\n我的父亲是我的英雄。\n");
+	printf("To travel is better than to arrive.\n路途之美，远甚终点。\n");
 	printf("\n");
 	system("pause");
 	return 0;
