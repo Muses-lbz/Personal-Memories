@@ -5,3 +5,5 @@ WHERE (Course.COURSE_NO=Choice.COURSE_NO)
 AND (Class.CLASS_NO=Student.CLASS_NO)
 AND (Student.S_NO=Choice.S_NO)
 AND CLASS_DEPT='计算机系'
+
+PS:所有的豪言都收起来，所有的呐喊都咽下去。
