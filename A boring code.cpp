@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("To travel is better than to arrive.\n路途之美，远甚终点。\n");
+	printf("We should never be ashamed of what we've gone through.\n往事莫悔。\n");
 	printf("\n");
 	system("pause");
 	return 0;
