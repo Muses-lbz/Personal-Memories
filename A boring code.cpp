@@ -3,8 +3,7 @@
 
 int main()
 {
-	printf("We should never be ashamed of what we've gone through.\n往事莫悔。\n");
-	printf("\n");
+	printf("水滴石穿，绳锯木断\n\n");
 	system("pause");
 	return 0;
 }
