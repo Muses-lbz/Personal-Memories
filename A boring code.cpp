@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("水滴石穿，绳锯木断\n\n");
+	printf("呼噜噜\n\n");
 	system("pause");
 	return 0;
 }
