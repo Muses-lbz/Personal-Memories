@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("呼噜噜\n\n");
+	printf("呜哈哈\n\n");
 	system("pause");
 	return 0;
 }
