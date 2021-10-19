@@ -1,7 +1,3 @@
-
-; You may customize this and other start-up templates; 
-; The location of this template is c:\emu8086\inc\0_com_template.txt
-
 ;将ASCII码表示的十进制数转换为二进制数
 SSTACK SEGMENT STACK
     DW 64 DUP(?)
