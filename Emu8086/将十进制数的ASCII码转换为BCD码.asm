@@ -1,9 +1,4 @@
-
-; You may customize this and other start-up templates; 
-; The location of this template is c:\emu8086\inc\0_com_template.txt
-
-
-;½«Ê®½øÖÆÊıµÄASCIIÂë×ª»»ÎªBCDÂë
+;å°†åè¿›åˆ¶æ•°çš„ASCIIç è½¬æ¢ä¸ºBCDç 
 SSTACK SEGMENT STACK
     DW 64 DUP(?)
 SSTACK ENDS
