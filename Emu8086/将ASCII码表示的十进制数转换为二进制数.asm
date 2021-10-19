@@ -2,7 +2,7 @@
 ; You may customize this and other start-up templates; 
 ; The location of this template is c:\emu8086\inc\0_com_template.txt
 
-;½«ASCIIÂë±íÊ¾µÄÊ®½øÖÆÊı×ª»»Îª¶ş½øÖÆÊı
+;å°†ASCIIç è¡¨ç¤ºçš„åè¿›åˆ¶æ•°è½¬æ¢ä¸ºäºŒè¿›åˆ¶æ•°
 SSTACK SEGMENT STACK
     DW 64 DUP(?)
 SSTACK ENDS
