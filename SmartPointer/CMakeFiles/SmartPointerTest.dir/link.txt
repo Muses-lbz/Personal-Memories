@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SmartPointerTest.dir/test/main.cpp.o CMakeFiles/SmartPointerTest.dir/src/ReferenceCounter.cpp.o -o SmartPointerTest 
