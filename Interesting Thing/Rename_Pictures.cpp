@@ -39,7 +39,7 @@ void renameImages(const fs::path& directory, int& index) {
 }
 
 int main() {
-    fs::path targetDirectory = "E:/Convert Documents/Convert Files"; // 替换为你的目标目录路径
+    fs::path targetDirectory = "E:/Convert Documents/Convert Files"; // 目标目录路径
     int startIndex = 1; // 重命名的起始索引
 
     try {
