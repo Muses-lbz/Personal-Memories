@@ -1,3 +1,4 @@
+//视频重命名格式：自定义词语_15个汉字_序号
 #include <iostream>
 #include <filesystem>
 #include <string>
